@@ -11,7 +11,7 @@ class MeuTeste extends StatelessWidget{
       home: Scaffold(appBar: AppBar(
         title: Text("App do Carlos")
       ),
-      body: Text("Hello World!!!")
+      body: Text("Hello World")
       )
     );
     
